@@ -12,10 +12,10 @@ I am passionate about leveraging my analytical abilities to deliver impactful re
 I am a skilled Data Analyst with a solid foundation in business, data and worksheet modelling using MS-Excel, Python programming, statistics, predictive modelling, machine learning, SQL, and Power BI. I successfully completed a rigorous 16-week data analytics certification from an digiskills.com. My passion lies in transforming data into actionable insights to solve complex problems and drive informed business decisions.
 
 # Projects
-[HR-Payroll Analytics]
+# [HR-Payroll Analytics]
 Description: This project is based on two-year payroll data of an organization which is stored in an Excel workbook. This file is imported in Power BI to clean and transform the data to produce data visualizations with insights in them.
 
-Key Activities:
+# Key Activities:
 
 Data Preprocessing: Handled missing values, encoded categorical features, and scaled numerical features.
 Exploratory Data Analysis (EDA): Visualized feature distributions and relationships, performed correlation analysis.
