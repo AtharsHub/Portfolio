@@ -1,5 +1,4 @@
-# Portfolio
-Athar Ali | Data Analyst Portfolio
+# Athar Ali | Data Analyst Portfolio
 
 I am a skilled Data Analyst with a strong background in research and data analysis, currently working as a Research Associate at a reputable university where I have worked on various qualitative and quantitative research projects in the domain of education and healthcare marketing analytics. I hold a Master’s in Computer Science from Karachi University and have completed a Data Analysis Certification from DigiSkills. Additionally, I serve as a Remote Data Analysis Consultant at HTech Solutions, where my role involves analyzing HR-related data for the National Bank of Pakistan.
 
