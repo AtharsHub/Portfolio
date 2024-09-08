@@ -23,4 +23,3 @@ Feature Engineering: Created new features and selected important ones for the mo
 Skills Used: Ms-Excel and Data visualizations of Power BI.
 
 Link to Project: [HR-Payroll Analytics](https://github.com/AtharsHub/Portfolio/tree/main/Project1)
-Streamlit App for Employee Churn
